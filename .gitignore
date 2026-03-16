@@ -175,3 +175,4 @@ Session.vim
 *.sdf
 *.VC.db
 *.VC.opendb
+!.vsconfig
